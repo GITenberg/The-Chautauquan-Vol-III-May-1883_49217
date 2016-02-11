@@ -1,0 +1,26 @@
+_repo: The-Chautauquan-Vol-III-May-1883_49217
+contributor:
+  creator:
+    editor:
+      agent_name: Flood, Theodore L.
+      gutenberg_agent_id: '44656'
+      url: http://www.gutenberg.org/2009/agents/44656
+creator:
+  authors:
+  - agent_name: Literary, The Chautauquan
+    gutenberg_agent_id: '44654'
+    url: http://www.gutenberg.org/2009/agents/44654
+  - agent_name: Circle, Scientific
+    gutenberg_agent_id: '44655'
+    url: http://www.gutenberg.org/2009/agents/44655
+description: ''
+gutenberg_issued: '2015-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49217'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Chautauquan, Vol. III, May 1883
+url: http://www.gutenberg.org/ebooks/49217
